@@ -1,0 +1,4 @@
+flask
+numpy
+rank-bm25
+scikit-learn
